@@ -15,6 +15,11 @@ Durante os exercícios, pratiquei:
 - Uso de Expressões Regulares para identificar padrões em textos
 
 ## Tecnologias
-<div>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-</div>
+<img 
+    align="left" 
+    alt="Java"
+    title="Java" 
+    width="40px" 
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"  />
+ 
